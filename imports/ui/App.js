@@ -7,17 +7,21 @@ export default class App extends React.Component {
   render() {
     return (
       <div>
-        <TitleBar title={this.props.title} subtitle="Created by Ty Hitzeman"/>
+        <TitleBar
+          title={this.props.title}
+          version="1.0.0"
+          subtitle="Created by Ty Hitzeman"
+        />
         <div className="wrapper">
-            <PlayerList players={this.props.players} />
-            <AddPlayer />
+          <PlayerList players={this.props.players} />
+          <AddPlayer />
         </div>
       </div>
     );
   }
-};
+}
 
 App.propTypes = {
-    title: React.PropTypes.string.isRequired,
-    players: React.PropTypes.array.isRequired
+  title: React.PropTypes.string.isRequired,
+  players: React.PropTypes.array.isRequired
 };
