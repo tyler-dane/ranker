@@ -31,16 +31,3 @@
     font-weight: 300;
     text-align: center;
 }
-
-.fade {
-    opacity:1;
-}
-.fade:hover {
-    opacity:.80;
-}
-
-.item__color:hover {
-    background: #dbd4d4;
-    transform: scale(1.035);
-    transition: all .18s ease-in-out;
-}
