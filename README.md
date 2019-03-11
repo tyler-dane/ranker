@@ -7,7 +7,7 @@ Features:
 - Delete player
 - Dynamic place calculation based on points
 
-![Alt text](/RankerScreenshot.png?raw=true "Main Page")
+![Alt text](RankerScreenshot.png?raw=true "Main Page")
 
 
 
