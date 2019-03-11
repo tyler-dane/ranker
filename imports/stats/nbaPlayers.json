@@ -1,0 +1,41 @@
+{
+  "kareemAbdulJabbar": {
+    "firstName": "Kareem",
+    "lastName": "Abdul-Jabbar",
+    "Born": "1947",
+    "nickname": "The Captain",
+    "totalPoints": "38387"
+  },
+
+  "karlMalone": {
+    "firstName": "Karl",
+    "lastName": "Malone",
+    "Born": "1963",
+    "nickname": "The Mailman",
+    "totalPoints": "36928"
+  },
+
+  "kobeBryant": {
+    "firstName": "Kobe",
+    "lastName": "Bryant",
+    "Born": "1978",
+    "nickname": "Black Mamba",
+    "totalPoints": "33643"
+  },
+
+  "lebronJames": {
+    "firstName": "LeBron",
+    "lastName": "James",
+    "Born": "1984",
+    "nickname": "King James",
+    "totalPoints": "32304"
+  },
+
+  "michaelJordan": {
+    "firstName": "Michael",
+    "lastName": "Jordan",
+    "Born": "1963",
+    "nickname": "Air Jordan",
+    "totalPoints": "32292"
+  }
+}
