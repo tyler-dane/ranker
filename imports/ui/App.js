@@ -9,7 +9,7 @@ export default class App extends React.Component {
       <div>
         <TitleBar
           title={this.props.title}
-          version="1.0.0"
+          version="3.0.0"
           subtitle="Created by Ty Hitzeman"
         />
         <div className="wrapper">

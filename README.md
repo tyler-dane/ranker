@@ -1,6 +1,13 @@
-# ranker
-Simple Meteor app for ranking items. 
+# Ranker
+Meteor app for ranking items. 
 
+Features:
+- Add new play
+- Increment and decrement points
+- Delete player
+- Dynamic place calculation based on points
+
+![Alt text](/RankerScreenshot.png?raw=true "Main Page")
 
 
 
