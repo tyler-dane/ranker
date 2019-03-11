@@ -15,7 +15,7 @@ const renderPlayers = playersList => {
 };
 
 Meteor.startup(() => {
-  //setDefaultNbaPlayers();
+  setDefaultNbaPlayers();
   Tracker.autorun(() => {
     let players = Players.find({}, { sort: { score: -1 } }).fetch();
     let positionedPlayers = calculatePlayerPositions(players);

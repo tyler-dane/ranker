@@ -6,6 +6,8 @@ Features:
 - Increment and decrement points
 - Delete player
 - Dynamic place calculation based on points
+- Animations upon hover, button clicks, and place changes
+- Default message when no players added
 
 ![Alt text](RankerScreenshot.png?raw=true "Main Page")
 
