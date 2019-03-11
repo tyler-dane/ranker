@@ -10,7 +10,7 @@ export default class TitleBar extends React.Component {
       return (
         <div className="title-bar">
           <div className="wrapper">
-            <h1>{this.props.title}</h1>
+            <h1 className="fas fa-chart-line"> {this.props.title}</h1>
             <p className="title-bar__version">Version {this.props.version}</p>
             <br></br>
             {this.renderSubtitle()}
