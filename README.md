@@ -9,7 +9,8 @@ Features:
 - Animations upon hover, button clicks, and place changes
 - Default message when no players added
 
-![Alt text](RankerScreenshot.png?raw=true "Main Page")
+![](ranker.gif)
+#![Alt text](RankerScreenshot.png?raw=true "Main Page")
 
 
 
