@@ -2,7 +2,7 @@
 Meteor app for ranking items. 
 
 Features:
-- Add new play
+- Add new player
 - Increment and decrement points
 - Delete player
 - Dynamic place calculation based on points
